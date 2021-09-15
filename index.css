@@ -1,0 +1,32 @@
+body {
+  padding-top: 50px;
+  background-color: lightgray;
+}
+
+.jumbotron {
+  background-image: url("https://paiza-webapp.s3.amazonaws.com/files/learning/portfolio/bg.png");
+  color: white;
+}
+
+.starter-template {
+  padding: 40px 80px;
+  background-color: white;
+}
+
+.icon-size {
+  font-size: 200%;
+}
+.color-talk {
+  color: lightseagreen;
+}
+
+.color-wrench {
+  color: steelblue;
+}
+
+.color-heart {
+  color: plum;
+}
+.img-me {
+  width: 220px;
+}
