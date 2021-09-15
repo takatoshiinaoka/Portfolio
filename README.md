@@ -1,4 +1,4 @@
 # Portfolio
-公開できたよ→
+https://takatoshiinaoka.github.io/Portfolio/
 
 
